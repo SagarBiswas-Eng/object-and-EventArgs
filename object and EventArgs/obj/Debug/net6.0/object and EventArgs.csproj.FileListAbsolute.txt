@@ -1,0 +1,14 @@
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\bin\Debug\net6.0\object and EventArgs.exe
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\bin\Debug\net6.0\object and EventArgs.deps.json
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\bin\Debug\net6.0\object and EventArgs.runtimeconfig.json
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\bin\Debug\net6.0\object and EventArgs.dll
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\bin\Debug\net6.0\object and EventArgs.pdb
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.dll
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\refint\object and EventArgs.dll
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.pdb
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\object and EventArgs.genruntimeconfig.cache
+C:\Users\sagar\OneDrive\Documents\Practice\C#\object and EventArgs\object and EventArgs\obj\Debug\net6.0\ref\object and EventArgs.dll
